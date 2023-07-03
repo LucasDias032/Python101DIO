@@ -60,4 +60,4 @@ while opcao != 0:
     else:
         print("Opçao Inválida")
 else:
-    print("Obrigado por usar o Banco LUKS")
+    print("Obrigado por usar o Banco LDIO")
